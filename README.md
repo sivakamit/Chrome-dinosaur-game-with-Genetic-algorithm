@@ -1,5 +1,7 @@
 # Dinosaur game with Genetic Algorithm
 
+The dinosaur game by google chrome is a built-in game which is very simple and easy to play. Main goal of this project is to simulate the game and reach the high score. Genetic algorithm is used for optimization. The high score is achieved, and the game gets optimized more in every generation.
+
 Usage of internet is increasing rapidly all over the world. People struggle what to do when the internet is down. It hard to pass time without internet. Playing games would be one of the options to do. Games are played for enjoyment, sometimes for achievements or for rewards. Google came up with the offline game called Dinosaur game, which is very simple, easy to play. This game is simulated using python creating ground and obstacles. The game should be optimized more to reach high score. For optimization, Genetic algorithm is used.
 
 ## Genetic algorithm
